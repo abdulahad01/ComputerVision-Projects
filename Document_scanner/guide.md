@@ -28,13 +28,12 @@ finally we get our output as
 To give the output a fresh scanner BnW feel we do a quick adaptive threshold of the output image to get the final output.
 =======
 finally we get our output 
->>>>>>> 6a5887e9985d87ae5d79a77b2a7cdda77298e94e
 ![test image](output/final.jpeg "Final Image")
 
 
 **Note**  :This is just a simplified explanation of the many processes in the program. To Learn the various methodologies and explore alternate methods please check the websites below 
 
  - [PyImage Search](https://www.pyimagesearch.com/)
- -  [Murtaza Hassan](https://www.murtazahassan.com/)
+ - [Murtaza Hassan](https://www.murtazahassan.com/)
 
 If you liked the project , do leave a :star:
