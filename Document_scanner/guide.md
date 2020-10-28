@@ -20,8 +20,12 @@ We use the binary image to obtain the list of  contours in the image. We sort th
 
 ### Applying warp perspective :
 The warp perspective function is sesitive to the location of the points hence we reorder the contour points in the clockwise order.
-finally we get our output 
-![test image](output/test.jpeg "Final Image")
+finally we get our output as
+![test image](output/corrected.jpeg "Corrected Image")
+
+### Applying threshold :
+To give the output a fresh scanner BnW feel we do a quick adaptive threshold of the output image to get the final output.
+![test image](output/final.jpeg "Final Image")
 
 
 **Note**  :This is just a simplified explanation of the many processes in the program. To Learn the various methodologies and explore alternate methods please check the websites below 
